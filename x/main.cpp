@@ -1,9 +1,12 @@
 #include <iostream>
+#include <string.h>
 
 using namespace std;
 
+string s;
+
 int main()
 {
-	printf("test.cpp sucess!!\n");
-	return 0;
+ cin >> s;
+cout << s  << '8' << endl;
 }

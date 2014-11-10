@@ -1,4 +1,4 @@
-main.exe: main.cpp
-	g++ main.cpp -o main.exe
+main: main.cpp
+	g++ main.cpp -o main
 clean:
-	rm -rf *.cpp 
+	rm -rf main.*
