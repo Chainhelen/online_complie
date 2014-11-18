@@ -1,12 +1,7 @@
-#include <iostream>
-#include <string.h>
-
-using namespace std;
-
-string s;
+#include <stdio.h>
 
 int main()
 {
- cin >> s;
-cout << s  << '8' << endl;
+  printf("sdjf\n");
+  return 0;
 }
